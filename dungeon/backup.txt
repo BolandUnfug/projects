@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: dungeon, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  dungeon.vcxproj -> C:\Users\Game110AM\Source\Repos\projects\dungeon\Debug\dungeon.exe
+1>  dungeon.vcxproj -> C:\Users\Game110AM\Source\Repos\projects\dungeon\Debug\dungeon.pdb (Partial PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
